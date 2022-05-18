@@ -1,5 +1,5 @@
-# data-base
-# one of the first projects created
+# one of the first projects created on start of my study 
+
 # using:
 # chains
 # binary search
